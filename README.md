@@ -8,7 +8,7 @@ Committed to continuous learning, I keep abreast of the latest trends and techno
 
 In my leisure time, I delight in exploring new data analysis tools and techniques, constantly seeking opportunities to broaden my knowledge and skills. Whether working collaboratively or independently, I am fueled by the excitement of uncovering fresh insights and the gratification of employing data to resolve intricate problems.
 
-My CV in [pdf](XXXXXXX).
+My CV in [pdf](http://issacbrawn.com.ng/Adeola%20Oni%20-%20DA.pdf).
 
 This is a repository to showcase skills, share some of my work in Data Analytics / Data Science related topics.
 
