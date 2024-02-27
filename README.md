@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** The goal is to analyze customer engagement, loyalty programs, segmentation strategies, and text data to enhance marketing campaigns and business improvements. Additionally, to uncover trends and insights within sales data, evaluate its suitability for modeling, and explore potential relationships between North American, European, and global sales.
 
-**Skills:** Data Cleaning, Data Analysis (EDA), Correlation Matrices, Hypothesis Testing, Data Visualisation, Machine Learning, Statistical analysis, Communication, Problem-solving, Domain knowledge,
+**Skills:** Data Cleaning, Data Analysis (EDA), Correlation Matrices, Hypothesis Testing, Data Visualisation, Data preparation for Natural Language Processing (NLP) , Machine Learning, Statistical analysis, Communication, Problem-solving, Domain knowledge,
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy. Statsmodel, Sklearn, scipy,Counter,Textblob, WordCloud , Nltk
 
@@ -80,7 +80,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** The goal is to understand healthcare service utilization trends and provide recommendations on infrastructure and resource allocation based on the insights gathered from exploratory data analysis.
 
-**Skills:** Data Management and Organization,Data Wrangling and Manipulation,Exploratory Data Analysis (EDA),Statistical Analysis,Documentation and Reporting,Presentation Skills.
+**Skills:** Data Management and Organization,Data Wrangling and Manipulation,Exploratory Data Analysis (EDA),Statistical Analysis, Documentation and Reporting,Presentation Skills.
 
 **Technology:** Python, Pandas, Numpy, Calendar, Seaborn, Matplotlib
 
