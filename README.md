@@ -30,11 +30,14 @@ This is a repository to showcase skills, share some of my work in Data Analytics
     - [Multivariate Regression Analysis for Revenue prediction ](https://github.com/oneil213/PortfolioProjects/blob/main/Multivariate%20Regression%20Analysis.R)
 
   -Visualisations  
-  - R Pubs ----> [go to RPubs...](https://rpubs.com/oneil213)
+  - R Pubs ---> [go to RPubs...](https://rpubs.com/oneil213)
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adeola.oni5266/vizzes)
 
   -Reports
-  - Sample Reports ----> [go to sample Reports...](https://shorturl.at/mntz3)
+  - Sample Reports ---> [go to sample Reports...](https://shorturl.at/mntz3)
+
+  -Presentations
+  -Sample Presentations ---> [go to sample presentations...](https://rb.gy/fq9byz)
 
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
