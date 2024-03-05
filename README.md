@@ -34,10 +34,11 @@ This is a repository to showcase skills, share some of my work in Data Analytics
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adeola.oni5266/vizzes)
 
   -Reports
-  - Sample Reports ---> [go to sample Reports...](https://shorturl.at/mntz3)
+   - Sample Reports ---> [go to sample Reports...](https://shorturl.at/mntz3)
 
   -Presentations
-  -Sample Presentations ---> [go to sample presentations...](https://rb.gy/fq9byz)
+   - Sample Presentations ---> [go to sample presentations...](https://rb.gy/fq9byz)
+
 
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
